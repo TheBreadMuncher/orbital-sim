@@ -20,5 +20,5 @@ This is a set of private python simulation code for calculating orbital periods 
 1. Run the Code
 2. A site will open-- enter the values
 3. An Output will be received
-# Licence
+# License
 These code is the sole property of this account and cannot be modified for commercial use. If modified, the account's name (Ritisha Bhat (TheBreadMuncher)) should be cited and credited. All rights belong to Ritisha Bhat
