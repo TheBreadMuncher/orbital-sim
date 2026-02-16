@@ -11,11 +11,11 @@ This is a set of private python simulation code for calculating orbital periods 
 - Aerospace Fundamentals
 # Files
 /orbital-sim
- ├─ main.py
- ├─ constants.py
- ├─ README.md
- ├─ gui.py
- ├─ sample-output.png
+ - ├─ main.py
+ - ├─ constants.py
+ - ├─ README.md
+ - ├─ gui.py
+ - ├─ sample-output.png
 # How to Use
 1. Run the Code
 2. A site will open-- enter the values
